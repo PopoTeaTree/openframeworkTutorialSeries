@@ -31,7 +31,7 @@ class ofApp : public ofBaseApp{
     ofxButton button;
     ofxLabel label;
     
-    ofxIntField intFeild;
+    ofxIntField intField;
     ofxFloatField floatField;
     ofxTextField textField;
     
