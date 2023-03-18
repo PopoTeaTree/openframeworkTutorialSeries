@@ -27,5 +27,7 @@ public:
     ofxPanel gui;
     ofxIntSlider size;
     ofxColorSlider color;
+    ofxVec3Slider background;
+    ofxButton btnClear;
     
 };
