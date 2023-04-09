@@ -30,4 +30,10 @@ public:
     ofxVec3Slider background;
     ofxButton btnClear;
     
+    ofImage imgScreenshot;
+    int count;
+    
+    ofFbo fbo;
+    int width = 800;
+    int height = 600;
 };
